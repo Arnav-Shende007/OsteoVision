@@ -11,9 +11,7 @@
 
 ## 👥 Authors
 
-**Arnav Shende · Aryan Medigeri · Sakshi Sharan · Laxmi Kale · Suyoga Bansode**  
-Department of Computer Science and Engineering (Data Science)  
-MIT Academy of Engineering, Pune, Maharashtra, India
+**Arnav Shende · Aryan Medigeri · Sakshi Sharan**  
 
 ---
 
@@ -141,7 +139,3 @@ MIT Academy of Engineering, Pune, 2025.
 ## ⚠️ Disclaimer
 
 This tool is intended for research and educational purposes only. It is not a certified medical device and should not be used as a substitute for professional medical diagnosis.
-
----
-
-<p align="center">Made with ❤️ at MIT Academy of Engineering, Pune</p>
