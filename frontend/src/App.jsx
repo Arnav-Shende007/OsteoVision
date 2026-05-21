@@ -284,7 +284,7 @@ function App() {
               }}
             >
               <img src="/img/bell.png" alt="Notifications" />
-              {unreadCount > 0 && <span>{unreadCount}</span>}
+              {unreadCount > 0 && <span className="notif-badge">{unreadCount}</span>}
               
               {showNotifications && (
                 <div className="dropdown-menu notif-dropdown" onClick={(e) => e.stopPropagation()}>
@@ -295,6 +295,7 @@ function App() {
                         <span className="notif-icon">{n.icon}</span>
                         <div className="notif-content">
                           <span className="notif-title">{n.title}</span>
+                          <span className="notif-desc">{n.text}</span>
                           <span className="notif-time">{n.time}</span>
                         </div>
                       </div>
