@@ -850,6 +850,10 @@ body {
 }
 
 .recent-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
     padding: 0.35rem 0.8rem;
     border-radius: 8px;
     font-weight: 800;
