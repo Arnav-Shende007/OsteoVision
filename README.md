@@ -7,7 +7,6 @@
 [![React](https://img.shields.io/badge/React-19-61DAFB.svg)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF.svg)](https://vitejs.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688.svg)](https://fastapi.tiangolo.com/)
-[![Institution](https://img.shields.io/badge/MIT--AOE-Pune-green.svg)](https://www.mitaoe.ac.in/)
 
 ---
 
